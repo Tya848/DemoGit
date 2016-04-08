@@ -11,4 +11,8 @@ package demo;
  */
 public class DemoGit {
     
+    public void demo () {
+    System.out.println("changement");   
+    }     
+    
 }
