@@ -13,6 +13,7 @@ public class DemoGit {
     
     public void demo () {
     System.out.println("changement");   
+    System.out.println("deuxieme changement"); 
     }     
     
 }
